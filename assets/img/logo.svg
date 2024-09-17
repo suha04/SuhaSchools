@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="1306.6667"
+   height="1306.6667"
+   viewBox="0 0 1306.6667 1306.6667"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.44428671"
+     inkscape:cx="605.46488"
+     inkscape:cy="813.66377"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="redraw"
+     style="display:inline">
+    <path
+       id="rect1"
+       style="display:inline;fill:#ffffff;stroke-width:3.77953"
+       d="M 165.52148 46.154297 L 165.52148 195.76172 L 165.52148 544.56445 L 321.49414 388.5918 L 321.49414 195.76172 L 488.60742 195.76172 L 488.60742 285.32031 L 165.52148 608.40625 L 165.52148 615.19531 L 165.52148 621.98438 L 165.52148 697.63672 L 641.39648 1288.582 L 641.39648 785.65039 L 641.39648 436.84766 L 485.42383 592.82031 L 485.42383 785.65039 L 485.42383 852.98047 L 328.00586 657.49609 L 513.64844 471.85352 L 638.21289 347.28906 L 638.21289 46.154297 L 165.52148 46.154297 z M 686.70508 46.154297 L 686.70508 347.28906 L 811.26953 471.85352 L 996.91211 657.49609 L 839.49414 852.98047 L 839.49414 785.65039 L 839.49414 592.82031 L 683.52148 436.84766 L 683.52148 785.65039 L 683.52148 1288.582 L 1159.3965 697.63672 L 1159.3965 621.98438 L 1159.3965 615.19531 L 1159.3965 608.40625 L 836.31055 285.32031 L 836.31055 195.76172 L 1003.4238 195.76172 L 1003.4238 388.5918 L 1159.3965 544.56445 L 1159.3965 195.76172 L 1159.3965 46.154297 L 686.70508 46.154297 z "
+       inkscape:label="Icon" />
+  </g>
+</svg>
