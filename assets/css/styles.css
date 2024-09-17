@@ -9,6 +9,13 @@
     /* Sizing */
     --navFontSize: clamp(20px, 2vw, 25px);
     --HeroTitleFontSize: clamp(15px, 2vw, 25px);
+
+     /* Dark mode colors (default) */
+    
+     --bgColor1: #181818; /* Dark mode primary background color */
+     --bgColor2: #232323; /* Dark mode secondary background color */
+     --fontColor: white;  /* Light text color for dark mode */
+    
 }
 
 * {
@@ -25,18 +32,6 @@ body.light-mode
     --bgColor2: #f0f0f0;  /* Light mode secondary background color */
     --fontColor: #181818;  /* Dark text color for light mode */
 }
-
-body.dark-mode
-{
-     /* Dark mode colors */
-    
-     --bgColor1: #181818; /* Dark mode primary background color */
-     --bgColor2: #232323; /* Dark mode secondary background color */
-     --fontColor: white;  /* Light text color for dark mode */
-    
-
-}
-
 
 
 
@@ -309,6 +304,7 @@ padding: 10px;
 .themeSwitch
 {
     transition: transform 1s ease; /* Smooth transition for rotation */
+    transform: rotate(360deg); /* Rotate 360 degrees */
     width: 50px;
     aspect-ratio: 1;
     cursor: pointer;
@@ -318,10 +314,6 @@ padding: 10px;
     overflow: hidden;
 }
 
-body.dark-mode .themeSwitch
-{
-    transform: rotate(360deg); /* Rotate 360 degrees */
-}
 
 body.light-mode .themeSwitch
 {
@@ -331,7 +323,6 @@ body.light-mode .themeSwitch
 .themeSwitch::before
 {
     content: '\f185';
-
     transition: content 3s ease-in-out; /* Smooth transition for content change */
 
     font-family: "Font Awesome 6 Free";
@@ -346,16 +337,9 @@ body.light-mode .themeSwitch
     aspect-ratio: 1;
 
     
-
-
-
-}
-
-/* Themes with different icons */
-body.dark-mode .themeSwitch::before
-{
     content: '\f186';  /* Moon unicode */
-    
+
+
 }
 
 body.light-mode .themeSwitch::before
